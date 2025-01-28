@@ -1,6 +1,5 @@
-# Data Visualization Class - Weekly Breakdown
-
-Welcome to the Data Visualization class. This pages outlines the structure and content for our 15-week journey together. Each week focuses on a distinct aspect of data visualization, providing a comprehensive understanding of the field.
+Welcome to the DATA VISUALIZATION AND COMMUNICATION  Class!
+This repository outlines our 15-week journey through key aspects of data visualization. Some materials may need updates from previous courses.
 
 ---
 
@@ -10,7 +9,7 @@ Welcome to the Data Visualization class. This pages outlines the structure and c
  ### [Week 1: Introduction to Data Visualization and Tools](Week1.md)
  **Summary**:
 - Introduction to the course, syllabus, and key tools for communication.
-- Focus on collecting and visualizing data using Google Forms and Google Sheets.
+- Focus on collecting and visualizing data using Google Forms.
 - Introduction to GitHub and Markdown for documentation.
 
 ### [Week 2: Data Visualization with Google Sheets and Introduction to Google Colab and Python Basics](Week2.md)
