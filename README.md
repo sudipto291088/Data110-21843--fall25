@@ -1,4 +1,4 @@
-Welcome to the DATA VISUALIZATION AND COMMUNICATION  Class!
+Welcome to the DATA VISUALIZATION AND COMMUNICATION  Data 110 Class!
 This repository outlines our 15-week journey through key aspects of data visualization. Some materials may need updates from previous courses.
 
 ---
