@@ -49,6 +49,17 @@ Hello Everyone! Here’s a quick recap of Week 1, followed by the assignment det
 
 ---
 
+## Presentation Requirement:
+Students must use Slides.com for their presentations and avoid using templates. Slides should be clear, well-structured, and shared in advance with the instructor and peers.
+
+---
+
+
+
+
+
+
+
 ## Week 1 Assignment: Creating a GitHub Account & Writing Your First Markdown File
 
 ### Objective
