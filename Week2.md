@@ -112,26 +112,7 @@ This week we delved into the powerful capabilities of Google Colab for data anal
    ```
 
 
-### Week 2 Assignment
-
-1. **Understanding Anscombe's Quartet**:
-   - Complete the tasks in the Jupyter Notebook. Ensure the notebook is compatible with Google Colab for a seamless experience.
-   - [Understanding Anscombe's Quartet Notebook](Week2_Python_HW_Anscombe's_Quartet.ipynb)
-
-2. **Exploring Trends in the Happiness Dataset**:
-- Open and run all the code cells in your Jupyter Notebook. Verify that it runs smoothly on Google Colab.
-- Analyze various factors that may influence happiness using scatter plots from the Happiness dataset.
-- [Exploring Happiness Trends Notebook](week2_Python_in_class_work.ipynb)
-
-### Additional Tasks for Students:
-- **Happiness Score vs Social Support** (`Social support`)
-- **Happiness Score vs Freedom to Make Life Choices** (`Freedom to make life choices`)
-- **Happiness Score vs Generosity** (`Generosity`)
-
-Update your code using the correct column names based on this.
-
-### Extra Task:
-Create **two scatter plots** using columns from the dataset that do not have a meaningful relationship (e.g., **Generosity** vs **Healthy Life Expectancy**). These scatter plots should illustrate cases where the variables do not correlate or make sense together. Be creative and explain why the plots don’t make sense.
+### [Week 2 Assignment(Week2_class_sp25_V0.ipynb)
 
   
 ### Further Reading
