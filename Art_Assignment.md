@@ -11,7 +11,7 @@ Create a **handmade** piece of art inspired by a dataset of your choice. The goa
 - Include a **brief (3-5 sentence) explanation** of how your work connects to the dataset.  
 
 ## Submission  
-- **Bring your artwork to class** (or provide a high-quality photo if necessary).  
+- **Bring your artwork to class** and submit it to the faculty.  
 - **Share your dataset** (a link or a short description of where it came from).  
 - Be prepared to **discuss your process and interpretation** with the class.  
 
@@ -26,3 +26,23 @@ Create a **handmade** piece of art inspired by a dataset of your choice. The goa
 ✅ **Connection to Data** – The student provides a short explanation (3-5 sentences) of how the artwork relates to the dataset.  
 
 ⭐ **Special Recognition:** Exceptional pieces that go beyond expectations in creativity, execution, or concept may receive in-class recognition or be displayed in a showcase.  
+
+---
+
+## Sources for Inspiration  
+
+Here are some sources to explore for ideas and techniques when creating your artwork:
+
+### **1. Data Visualization & Data Art Projects**
+- [The Pudding](https://pudding.cool) – A digital publication that uses data to tell visual stories.  
+- [Dear Data](http://www.dear-data.com) – A hand-drawn data visualization project by Giorgia Lupi & Stefanie Posavec.  
+- [Information is Beautiful](https://informationisbeautiful.net) – Stunning visualizations by David McCandless.  
+
+### **2. Artists Who Use Data in Art**
+- [Giorgia Lupi](https://giorgialupi.com) – A pioneer in hand-drawn data visualization.  
+- [Stefanie Posavec](https://www.stefanieposavec.com) – Works with hand-crafted, data-inspired design.  
+- [Rafael Lozano-Hemmer](https://www.lozano-hemmer.com) – Creates interactive art based on data & movement.  
+
+
+
+Use these sources for inspiration, but feel free to explore your own ideas! Think creatively about how data can be represented visually in a way that connects numbers to human perception and emotions.
