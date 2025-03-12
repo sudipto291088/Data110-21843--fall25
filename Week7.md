@@ -1,3 +1,31 @@
+# Palmer Penguins Dataset in Python (Seaborn)
+
+The **Palmer Penguins dataset** is a dataset collected by Dr. Kristen Gorman at the Palmer Station, Antarctica. It contains data on three species of penguins: **Adelie, Chinstrap, and Gentoo**, from three islands in the Palmer Archipelago.
+
+##  Dataset Features:
+- **species**: Penguin species (Adelie, Chinstrap, Gentoo)
+- **island**: Island where the penguin was observed (Biscoe, Dream, Torgersen)
+- **bill_length_mm**: Length of the penguin's bill in millimeters
+- **bill_depth_mm**: Depth of the penguin's bill in millimeters
+- **flipper_length_mm**: Length of the penguin's flipper in millimeters
+- **body_mass_g**: Body mass of the penguin in grams
+- **sex**: Sex of the penguin (Male, Female)
+- **year**: Year of observation
+
+##  Loading the Penguins Dataset in Python (Seaborn)
+```python
+import seaborn as sns
+import pandas as pd
+
+# Load the dataset
+penguins = sns.load_dataset("penguins")
+
+# Display the first few rows
+print(penguins.head())
+```
+
+
+
 ### Key Features of `sns.pairplot`:
 
 1. **Plots All Pairwise Relationships**:
