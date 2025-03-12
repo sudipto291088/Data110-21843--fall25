@@ -29,7 +29,7 @@ print(penguins.head())
 ### Key Features of `sns.pairplot`:
 
 1. **Plots All Pairwise Relationships**:
-   - For a dataset with `n` numerical columns, `pairplot` creates an $ n \times n $ grid of subplots.
+   - For a dataset with `n` numerical columns, `pairplot` creates an $n \times n$ grid of subplots.
    - Each off-diagonal plot is a scatter plot showing the relationship between two numerical variables.
    - For $ n $ columns, there are $\binom{n}{2}$ scatter plots and $n$ diagonal plots.
 
