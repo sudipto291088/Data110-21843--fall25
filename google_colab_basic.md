@@ -1,6 +1,6 @@
 # Introduction to Google Colab
 
-Google Colab (short for *Colaboratory*) is a free, cloud-based Jupyter Notebook environment provided by Google. It lets you write and run Python code in your browser with no local installation.
+[Google Colab](https://colab.research.google.com) (short for *Colaboratory*) is a free, cloud-based Jupyter Notebook environment provided by Google. It lets you write and run Python code in your browser with no local installation.
 
 ---
 
