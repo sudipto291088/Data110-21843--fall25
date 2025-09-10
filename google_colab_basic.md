@@ -169,3 +169,6 @@ df.head()
 
 ---
 
+## More
+
+[Youtube Video: Google Colab Tutorial for Beginners | Get Started with Google Colab](https://www.youtube.com/watch?v=RLYoEyIHL6A)
