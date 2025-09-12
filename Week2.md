@@ -112,7 +112,7 @@ This week we delved into the powerful capabilities of Google Colab for data anal
    ```
 
 
-### [Week 2 Assignment](Week2_class_sp25_V0.ipynb)
+### [Week 2 Assignment](Week2_Assignment_Fall_2025.ipynb)
 
   
 ### Further Reading
