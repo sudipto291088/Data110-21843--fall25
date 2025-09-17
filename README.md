@@ -21,7 +21,9 @@ This repository outlines our 15-week journey through key aspects of data visuali
 
 ### [Week 3: Aesthetic Mappings, Line, and Scatter Plots](week3.md)
 **Summary**:
-- Summary: Introduction to **Matplotlib** for creating line and scatter plots in Python. Learn to customize plots with different styles, colors, and markers, and visualize various mathematical functions using these fundamental plotting techniques.
+
+This week introduces the concept of mapping data to visual aesthetics—such as position, color, size, and shape—based on Chapter 2 of Claus Wilke’s *Fundamentals of Data Visualization*. We connect these ideas to practice by creating and customizing line and scatter plots in Python with Matplotlib. You will learn how to adjust line and marker properties, apply different styles, set axis limits, and visualize mathematical functions.
+
 
 
 ### [Week 4: Bar Graph with Matplotlib](week4.md)
