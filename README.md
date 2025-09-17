@@ -19,7 +19,7 @@ This repository outlines our 15-week journey through key aspects of data visuali
 - **Python Basics**: Introduction to fundamental Python concepts, including variables, data types, loops, and basic data structures. Start writing simple Python scripts to manipulate and analyze data.
 
 
-### [Week 3: Scatter Plot with Matplotlib in Python](week3.md)
+### [Week 3: Aesthetic Mappings, Line, and Scatter Plots](week3.md)
 **Summary**:
 - Summary: Introduction to **Matplotlib** for creating line and scatter plots in Python. Learn to customize plots with different styles, colors, and markers, and visualize various mathematical functions using these fundamental plotting techniques.
 
